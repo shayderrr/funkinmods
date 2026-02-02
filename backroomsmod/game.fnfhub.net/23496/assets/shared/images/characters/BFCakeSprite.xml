@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="BFCakeSprite.png">
-	<!-- Created with Adobe Animate version 22.0.5.191 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="390" height="390"/>
-	<SubTexture name="BF Dead confirm0000" x="0" y="0" width="390" height="390"/>
-</TextureAtlas>
