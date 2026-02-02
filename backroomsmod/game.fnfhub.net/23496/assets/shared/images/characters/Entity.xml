@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Entity.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Entity left0000" x="0" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="633" frameHeight="625"/>
+	<SubTexture name="Entity left0001" x="0" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="633" frameHeight="625"/>
+	<SubTexture name="Entity left0002" x="625" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="633" frameHeight="625"/>
+	<SubTexture name="Entity left0003" x="1250" y="0" width="633" height="625"/>
+	<SubTexture name="Entity right0000" x="1883" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="635" frameHeight="625"/>
+	<SubTexture name="Entity right0001" x="1883" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="635" frameHeight="625"/>
+	<SubTexture name="Entity right0002" x="2508" y="0" width="625" height="625" frameX="-4" frameY="0" frameWidth="635" frameHeight="625"/>
+	<SubTexture name="Entity right0003" x="3133" y="0" width="635" height="625"/>
+	<SubTexture name="Entity up0000" x="0" y="625" width="625" height="625"/>
+	<SubTexture name="Entity up0001" x="0" y="625" width="625" height="625"/>
+	<SubTexture name="Entity up0002" x="625" y="625" width="625" height="625"/>
+	<SubTexture name="Entity up0003" x="625" y="625" width="625" height="625"/>
+	<SubTexture name="Entity up0004" x="625" y="625" width="625" height="625"/>
+	<SubTexture name="Entry down0000" x="1250" y="625" width="625" height="625"/>
+	<SubTexture name="Entry down0001" x="1250" y="625" width="625" height="625"/>
+	<SubTexture name="Entry down0002" x="1875" y="625" width="625" height="625"/>
+	<SubTexture name="Entry down0003" x="1875" y="625" width="625" height="625"/>
+	<SubTexture name="Entry down0004" x="1875" y="625" width="625" height="625"/>
+	<SubTexture name="Entry idle0000" x="2500" y="625" width="625" height="625"/>
+	<SubTexture name="Entry idle0001" x="2500" y="625" width="625" height="625"/>
+	<SubTexture name="Entry idle0002" x="3125" y="625" width="625" height="625"/>
+	<SubTexture name="Entry idle0003" x="0" y="1250" width="625" height="625"/>
+	<SubTexture name="Entry idle0004" x="625" y="1250" width="625" height="625"/>
+	<SubTexture name="Entry idle0005" x="625" y="1250" width="625" height="625"/>
+	<SubTexture name="Entry idle0006" x="625" y="1250" width="625" height="625"/>
+</TextureAtlas>

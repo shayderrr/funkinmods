@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CreepyEye.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eye0000" x="0" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0001" x="0" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0002" x="498" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0003" x="498" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0004" x="996" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0005" x="996" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0006" x="1494" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0007" x="1494" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0008" x="1992" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0009" x="1992" y="0" width="498" height="498"/>
+	<SubTexture name="Eye0010" x="2490" y="0" width="498" height="498"/>
+</TextureAtlas>

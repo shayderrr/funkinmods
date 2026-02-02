@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Idle",
+			"indices": [],
+			"name": "Ron almond idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ron almond down"
+		},
+		{
+			"offsets": [
+				-60,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ron almond up"
+		},
+		{
+			"offsets": [
+				-10,
+				-81
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ron almond left"
+		},
+		{
+			"offsets": [
+				-91,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ron almond right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Ron almond idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ron_almond",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "Almond",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		183,
+		123
+	],
+	"camera_position": [
+		200,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.85
+}

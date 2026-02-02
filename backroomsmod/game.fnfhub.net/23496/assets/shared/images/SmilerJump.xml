@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SmilerJump.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scare0000" x="0" y="0" width="393" height="225" frameX="-1270" frameY="-783" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0001" x="393" y="0" width="393" height="225" frameX="-1270" frameY="-783" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0002" x="786" y="0" width="398" height="230" frameX="-1268" frameY="-779" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0003" x="1184" y="0" width="429" height="272" frameX="-1252" frameY="-750" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0004" x="1613" y="0" width="547" height="426" frameX="-1193" frameY="-641" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0005" x="2160" y="0" width="547" height="466" frameX="-1193" frameY="-643" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0006" x="2707" y="0" width="547" height="507" frameX="-1193" frameY="-646" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0007" x="3254" y="0" width="966" height="525" frameX="-994" frameY="-679" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0008" x="4220" y="0" width="1386" height="544" frameX="-794" frameY="-713" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0009" x="5606" y="0" width="1805" height="564" frameX="-595" frameY="-747" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0010" x="0" y="564" width="1903" height="648" frameX="-548" frameY="-676" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0011" x="1903" y="564" width="2000" height="732" frameX="-501" frameY="-605" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0012" x="3903" y="564" width="2099" height="815" frameX="-453" frameY="-535" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0013" x="0" y="1379" width="2196" height="899" frameX="-406" frameY="-464" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0014" x="2196" y="1379" width="2293" height="982" frameX="-359" frameY="-394" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0015" x="4489" y="1379" width="2437" height="1048" frameX="-287" frameY="-315" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0016" x="0" y="2427" width="2581" height="1113" frameX="-215" frameY="-236" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0017" x="2581" y="2427" width="2725" height="1178" frameX="-143" frameY="-157" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0018" x="5306" y="2427" width="2868" height="1244" frameX="-71" frameY="-78" frameWidth="3011" frameHeight="1376"/>
+	<SubTexture name="Scare0019" x="0" y="3671" width="3011" height="1307" frameX="0" frameY="0" frameWidth="3011" frameHeight="1376"/>
+</TextureAtlas>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ron almond.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ron almond down0000" x="0" y="0" width="1134" height="872" frameX="0" frameY="0" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0001" x="1134" y="0" width="1125" height="856" frameX="-9" frameY="0" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0002" x="2259" y="0" width="1205" height="856" frameX="-24" frameY="0" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0003" x="3464" y="0" width="1299" height="800" frameX="-39" frameY="-117" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0004" x="4763" y="0" width="1255" height="687" frameX="-102" frameY="-223" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0005" x="6018" y="0" width="1320" height="687" frameX="-102" frameY="-223" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0006" x="0" y="872" width="1263" height="687" frameX="-102" frameY="-223" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0007" x="1263" y="872" width="1318" height="687" frameX="-102" frameY="-223" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond down0008" x="1263" y="872" width="1318" height="687" frameX="-102" frameY="-223" frameWidth="1422" frameHeight="917"/>
+	<SubTexture name="Ron almond idle0000" x="2581" y="872" width="1025" height="761" frameX="-4" frameY="0" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0001" x="2581" y="872" width="1025" height="761" frameX="-4" frameY="0" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0002" x="3606" y="872" width="1037" height="719" frameX="-7" frameY="-29" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0003" x="3606" y="872" width="1037" height="719" frameX="-7" frameY="-29" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0004" x="4643" y="872" width="1068" height="711" frameX="-14" frameY="-45" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0005" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0006" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0007" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0008" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0009" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0010" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0011" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0012" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0013" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond idle0014" x="5711" y="872" width="1101" height="658" frameX="0" frameY="-98" frameWidth="1101" frameHeight="761"/>
+	<SubTexture name="Ron almond left0000" x="6812" y="872" width="650" height="651" frameX="-219" frameY="-10" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond left0001" x="7462" y="872" width="693" height="678" frameX="-95" frameY="0" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond left0002" x="0" y="1633" width="721" height="696" frameX="0" frameY="-13" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond left0003" x="0" y="1633" width="721" height="696" frameX="0" frameY="-13" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond left0004" x="0" y="1633" width="721" height="696" frameX="0" frameY="-13" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond left0005" x="0" y="1633" width="721" height="696" frameX="0" frameY="-13" frameWidth="869" frameHeight="709"/>
+	<SubTexture name="Ron almond right0000" x="721" y="1633" width="679" height="675" frameX="0" frameY="-14" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond right0001" x="1400" y="1633" width="728" height="687" frameX="0" frameY="0" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond right0002" x="1400" y="1633" width="728" height="687" frameX="0" frameY="0" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond right0003" x="2128" y="1633" width="708" height="686" frameX="-67" frameY="-23" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond right0004" x="2128" y="1633" width="708" height="686" frameX="-67" frameY="-23" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond right0005" x="2128" y="1633" width="708" height="686" frameX="-67" frameY="-23" frameWidth="775" frameHeight="709"/>
+	<SubTexture name="Ron almond up0000" x="2836" y="1633" width="727" height="819" frameX="-16" frameY="-10" frameWidth="743" frameHeight="874"/>
+	<SubTexture name="Ron almond up0001" x="3563" y="1633" width="714" height="826" frameX="0" frameY="-23" frameWidth="743" frameHeight="874"/>
+	<SubTexture name="Ron almond up0002" x="4277" y="1633" width="714" height="826" frameX="0" frameY="-23" frameWidth="743" frameHeight="874"/>
+	<SubTexture name="Ron almond up0003" x="4991" y="1633" width="714" height="874" frameX="0" frameY="0" frameWidth="743" frameHeight="874"/>
+	<SubTexture name="Ron almond up0004" x="4991" y="1633" width="714" height="874" frameX="0" frameY="0" frameWidth="743" frameHeight="874"/>
+	<SubTexture name="Ron almond up0005" x="4991" y="1633" width="714" height="874" frameX="0" frameY="0" frameWidth="743" frameHeight="874"/>
+</TextureAtlas>

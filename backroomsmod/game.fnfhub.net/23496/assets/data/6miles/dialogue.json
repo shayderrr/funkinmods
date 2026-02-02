@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "PartyPooper",
+			"speed": 0.045,
+			"portrait": "PartyPooper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm detecting LARGE Amounts of enities.. JUST RUN"
+		}
+	]
+}

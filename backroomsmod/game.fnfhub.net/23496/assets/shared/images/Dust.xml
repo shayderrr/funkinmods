@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dust.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sheet0000" x="0" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0001" x="0" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0002" x="0" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0003" x="499" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0004" x="499" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0005" x="499" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0006" x="998" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0007" x="998" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0008" x="998" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0009" x="1497" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0010" x="1497" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0011" x="1497" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0012" x="1996" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0013" x="1996" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0014" x="1996" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0015" x="2495" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0016" x="2495" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0017" x="2495" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0018" x="2994" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0019" x="2994" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0020" x="2994" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0021" x="3493" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0022" x="3493" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0023" x="3493" y="0" width="499" height="699"/>
+	<SubTexture name="Sheet0024" x="0" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0025" x="0" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0026" x="0" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0027" x="499" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0028" x="499" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0029" x="499" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0030" x="998" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0031" x="998" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0032" x="998" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0033" x="1497" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0034" x="1497" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0035" x="1497" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0036" x="1996" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0037" x="1996" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0038" x="1996" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0039" x="2495" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0040" x="2495" y="699" width="499" height="699"/>
+	<SubTexture name="Sheet0041" x="2495" y="699" width="499" height="699"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"storyName": "Fun!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+        [
+            "BoredomRoom",
+            "PartyPooper",
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+		[
+			"Party-Starter",
+			"Partygoer",
+			[
+				0,
+				0,
+				0
+			]
+		],
+        [
+            "Treaty-Violated",
+            "Partygoer",
+            [
+                0,
+                0,
+                0
+            ]
+        ]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Funweek"
+}

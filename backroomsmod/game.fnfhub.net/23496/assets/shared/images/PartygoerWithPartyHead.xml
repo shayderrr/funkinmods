@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PartygoerWithPartyHead.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DeadPartyPooper0000" x="0" y="0" width="497" height="709"/>
+	<SubTexture name="DeadPartyPooper0001" x="497" y="0" width="497" height="709"/>
+	<SubTexture name="DeadPartyPooper0002" x="994" y="0" width="497" height="708" frameX="0" frameY="-1" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0003" x="1491" y="0" width="497" height="705" frameX="0" frameY="-4" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0004" x="1988" y="0" width="497" height="697" frameX="0" frameY="-12" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0005" x="2485" y="0" width="497" height="698" frameX="0" frameY="-11" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0006" x="2982" y="0" width="497" height="698" frameX="0" frameY="-11" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0007" x="3479" y="0" width="497" height="700" frameX="0" frameY="-9" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0008" x="0" y="709" width="497" height="702" frameX="0" frameY="-7" frameWidth="497" frameHeight="709"/>
+	<SubTexture name="DeadPartyPooper0009" x="0" y="0" width="497" height="709"/>
+</TextureAtlas>

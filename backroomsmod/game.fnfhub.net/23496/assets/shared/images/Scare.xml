@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scare.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scare0018" x="5224" y="6772" width="2321" height="1371" frameX="-138" frameY="-113" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0019" x="5348" y="1509" width="2402" height="1422" frameX="-107" frameY="-88" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0020" x="2646" y="2978" width="2476" height="1469" frameX="-79" frameY="-65" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0021" x="0" y="6192" width="2542" height="1511" frameX="-53" frameY="-44" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0022" x="0" y="3178" width="2599" height="1548" frameX="-31" frameY="-26" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0023" x="0" y="1600" width="2646" height="1578" frameX="-13" frameY="-11" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0024" x="0" y="0" width="2681" height="1600"/>
+	<SubTexture name="Scare0025" x="2681" y="0" width="2667" height="1554" frameX="-6" frameY="-21" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0026" x="5348" y="0" width="2651" height="1509" frameX="-13" frameY="-41" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0027" x="0" y="4726" width="2636" height="1466" frameX="-19" frameY="-60" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0028" x="2681" y="1554" width="2620" height="1424" frameX="-26" frameY="-79" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0029" x="2636" y="4447" width="2604" height="1384" frameX="-33" frameY="-97" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0030" x="2636" y="5831" width="2588" height="1345" frameX="-40" frameY="-115" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0031" x="5301" y="2931" width="2574" height="1309" frameX="-46" frameY="-131" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0032" x="5240" y="4240" width="2559" height="1274" frameX="-53" frameY="-147" frameWidth="2681" frameHeight="1600"/>
+	<SubTexture name="Scare0033" x="5240" y="5514" width="2545" height="1258" frameX="-59" frameY="-145" frameWidth="2681" frameHeight="1600"/>
+</TextureAtlas>

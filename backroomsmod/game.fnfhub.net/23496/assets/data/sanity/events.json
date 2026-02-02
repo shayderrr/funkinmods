@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "Sanity",
+		"player1": "bf",
+		"player2": "Smiler",
+		"player3": null,
+		"events": [
+			[
+				43354.8387096774,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46451.6129032258,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				55741.935483871,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58838.7096774194,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				73548.3870967743,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99096.7741935485,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102193.548387097,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				148645.161290323,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				151741.935483871,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				167225.806451613,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				170322.580645161,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "NoteSplashes",
+		"validScore": false,
+		"gfVersion": "pico",
+		"bpm": 155,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Sanity"
+	}
+}

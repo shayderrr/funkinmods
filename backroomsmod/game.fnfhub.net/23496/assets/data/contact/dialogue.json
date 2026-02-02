@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "PartyPooper",
+			"speed": 0.045,
+			"portrait": "PartyPooper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok, the only thing you could face here besides disease is a Smiler.."
+		},
+		{
+			"sound": "PartyPooper",
+			"speed": 0.05,
+			"portrait": "PartyPooper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My Name is PartyPooper#58, The Partygoers are killing my kind. I need your help to stop them!"
+		},
+		{
+			"sound": "PartyPooper",
+			"speed": 0.05,
+			"portrait": "PartyPooper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You will meet them soon, but for now we have more oppressing matters to take care of, I can track a Smiler in the distance."
+		},
+		{
+			"sound": "PartyPooper",
+			"speed": 0.07,
+			"portrait": "PartyPooper",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Smilers are a menance if you hear 'SH' You have to click space to avoid the bite... Stay safe!"
+		}
+	]
+}
