@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Floppa.png"><SubTexture name="Floppa Left0000" x="0" y="0" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Left0001" x="478" y="0" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Left0002" x="956" y="0" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Down0000" x="1434" y="0" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Down0001" x="0" y="373" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Down0002" x="478" y="373" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Right0000" x="956" y="373" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Right0001" x="1434" y="373" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Right0002" x="0" y="746" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Up0000" x="478" y="746" width="478" height="408" frameX="0" frameY="0" frameWidth="478" frameHeight="408" />
+<SubTexture name="Floppa Up0001" x="956" y="746" width="478" height="408" frameX="0" frameY="0" frameWidth="478" frameHeight="408" />
+<SubTexture name="Floppa Up0002" x="1434" y="746" width="478" height="408" frameX="0" frameY="0" frameWidth="478" frameHeight="408" />
+<SubTexture name="Floppa Up0003" x="0" y="1154" width="478" height="408" frameX="0" frameY="0" frameWidth="478" frameHeight="408" />
+<SubTexture name="Floppa Up0004" x="478" y="1154" width="478" height="408" frameX="0" frameY="0" frameWidth="478" frameHeight="408" />
+<SubTexture name="Floppa Idle0000" x="956" y="1154" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Idle0001" x="1434" y="1154" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+<SubTexture name="Floppa Idle0002" x="0" y="1562" width="478" height="373" frameX="0" frameY="0" frameWidth="478" frameHeight="373" />
+</TextureAtlas>

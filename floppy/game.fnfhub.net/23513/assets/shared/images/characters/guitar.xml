@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="guitar.png"><SubTexture name="guitar idle0000" x="0" y="0" width="540" height="344" frameX="0" frameY="0" frameWidth="540" frameHeight="344" />
+<SubTexture name="guitar idle0001" x="540" y="0" width="540" height="344" frameX="0" frameY="0" frameWidth="540" frameHeight="344" />
+<SubTexture name="guitar idle0002" x="0" y="344" width="540" height="344" frameX="0" frameY="0" frameWidth="540" frameHeight="344" />
+<SubTexture name="guitar idle0003" x="540" y="344" width="365" height="354" frameX="0" frameY="0" frameWidth="365" frameHeight="354" />
+</TextureAtlas>

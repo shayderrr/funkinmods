@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ascended-floppa.png"><SubTexture name="Ascended-floppa Right0000" x="515" y="615" width="515" height="276" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Right0001" x="1030" y="0" width="515" height="276" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Right0002" x="1030" y="552" width="515" height="275" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Right0003" x="515" y="0" width="515" height="308" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Left0000" x="515" y="316" width="515" height="294" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Left0001" x="0" y="0" width="515" height="316" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Down0000" x="0" y="899" width="515" height="252" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Idle0000" x="515" y="899" width="515" height="252" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Down0001" x="1030" y="899" width="515" height="252" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Up0000" x="1030" y="276" width="515" height="276" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Up0001" x="0" y="615" width="515" height="284" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+<SubTexture name="Ascended-floppa Up0002" x="0" y="316" width="515" height="299" frameX="-25" frameY="-77" frameWidth="556" frameHeight="411" />
+</TextureAtlas>

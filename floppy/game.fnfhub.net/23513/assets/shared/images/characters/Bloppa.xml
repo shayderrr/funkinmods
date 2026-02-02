@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bloppa.png"><SubTexture name="Bloppa Down0000" x="0" y="0" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Down0001" x="560" y="0" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Right0000" x="1120" y="0" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Right0001" x="1680" y="0" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Right0002" x="0" y="415" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Up0000" x="560" y="415" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Up0001" x="1120" y="415" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Up0002" x="1680" y="415" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Left0000" x="0" y="830" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Left0001" x="560" y="830" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Left0002" x="1120" y="830" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Idle0000" x="1680" y="830" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Idle0001" x="0" y="1245" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Idle0002" x="560" y="1245" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Idle0003" x="1120" y="1245" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+<SubTexture name="Bloppa Idle0004" x="1680" y="1245" width="560" height="415" frameX="0" frameY="0" frameWidth="560" frameHeight="415" />
+</TextureAtlas>

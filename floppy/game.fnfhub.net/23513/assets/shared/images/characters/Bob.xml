@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bob.png"><SubTexture name="Bob Down0000" x="0" y="0" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Down0001" x="547" y="0" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Down0002" x="1094" y="0" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Left0000" x="0" y="416" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Left0001" x="547" y="416" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Left0002" x="1094" y="416" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Right0000" x="0" y="832" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Right0001" x="547" y="832" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Right0002" x="1094" y="832" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Up0000" x="0" y="1248" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Up0001" x="547" y="1248" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Up0002" x="1094" y="1248" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Idle0000" x="0" y="1664" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Idle0001" x="547" y="1664" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+<SubTexture name="Bob Idle0002" x="1094" y="1664" width="547" height="416" frameX="0" frameY="0" frameWidth="547" frameHeight="416" />
+</TextureAtlas>

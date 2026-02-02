@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgbaby.png"><SubTexture name="yas0000" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="yas0001" x="0" y="585" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="yas0002" x="0" y="1170" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+</TextureAtlas>

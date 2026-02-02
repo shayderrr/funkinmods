@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bingus.png"><SubTexture name="Bingus Left0000" x="0" y="0" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Left0001" x="492" y="0" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Left0002" x="984" y="0" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Down0000" x="0" y="449" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Down0001" x="492" y="449" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Down0002" x="984" y="449" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Up0000" x="0" y="898" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Up0001" x="492" y="898" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Up0002" x="984" y="898" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Right0000" x="0" y="1347" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Right0001" x="492" y="1347" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Right0002" x="984" y="1347" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Idle0000" x="0" y="1796" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Idle0001" x="492" y="1796" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+<SubTexture name="Bingus Idle0002" x="984" y="1796" width="492" height="449" frameX="0" frameY="0" frameWidth="492" frameHeight="449" />
+</TextureAtlas>

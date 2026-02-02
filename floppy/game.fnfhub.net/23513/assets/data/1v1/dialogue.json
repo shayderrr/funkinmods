@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".         .            ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have 2 things to say"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how the heck did u escape from the backrooms"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and second of all"
+		},
+		{
+			"sound": "",
+			"speed": 0.305,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "i have a gun"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "woah floppa u have a gun!!!!!!"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gunfloppa.png"><SubTexture name="Gunfloppa Down0000" x="0" y="0" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Down0001" x="579" y="0" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Left0000" x="1158" y="0" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Left0001" x="1737" y="0" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Left0002" x="0" y="413" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Up0000" x="579" y="413" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Up0001" x="1158" y="413" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa idle0000" x="1737" y="413" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Right0000" x="0" y="826" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Right0001" x="579" y="826" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Right0002" x="1158" y="826" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Idle0000" x="1737" y="826" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Idle0001" x="0" y="1239" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Idle0002" x="579" y="1239" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Shoot0000" x="1158" y="1239" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+<SubTexture name="Gunfloppa Shoot0001" x="1737" y="1239" width="579" height="413" frameX="0" frameY="0" frameWidth="579" frameHeight="413" />
+</TextureAtlas>
