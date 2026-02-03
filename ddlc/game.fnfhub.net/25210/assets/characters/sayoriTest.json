@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				15
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "sayoriTest idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "sayoriTest left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				15
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "sayoriTest down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				15
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "sayoriTest up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "sayoriTest right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayoriTest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayoriTest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		300,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-350,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mikeuTable left"
+		},
+		{
+			"offsets": [
+				-350,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mikeuTable down"
+		},
+		{
+			"offsets": [
+				-350,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mikeuTable up"
+		},
+		{
+			"offsets": [
+				-350,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mikeuTable right"
+		},
+		{
+			"offsets": [
+				-350,
+				-30
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "mikeuTable idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mikeuTable",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mikeu",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-130,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

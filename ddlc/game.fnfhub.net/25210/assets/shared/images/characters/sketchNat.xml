@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sketchNat.png"><SubTexture name="sketchNat idle0000" x="782" y="0" width="391" height="448" frameX="-26" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat idle0001" x="391" y="898" width="391" height="445" frameX="-26" frameY="-55" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat idle0002" x="782" y="898" width="391" height="444" frameX="-26" frameY="-56" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat down0000" x="1564" y="0" width="391" height="431" frameX="-26" frameY="-69" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat down0001" x="1173" y="898" width="391" height="434" frameX="-26" frameY="-66" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat up0000" x="0" y="0" width="391" height="450" frameX="-26" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat up0001" x="0" y="450" width="391" height="448" frameX="-26" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat right0000" x="391" y="450" width="391" height="448" frameX="-29" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat right0001" x="782" y="450" width="391" height="448" frameX="-26" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat left0000" x="1173" y="0" width="391" height="448" frameX="-24" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat left0001" x="1173" y="448" width="391" height="448" frameX="-26" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat laugh0000" x="391" y="0" width="391" height="450" frameX="-26" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="sketchNat laugh0001" x="0" y="898" width="391" height="448" frameX="-26" frameY="-52" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

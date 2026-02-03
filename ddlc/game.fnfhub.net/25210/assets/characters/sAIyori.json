@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				90
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "sAIyori idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "sAIyori left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "sAIyori down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				90
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "sAIyori up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "sAIyori right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sAIyori",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayoriTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		161,
+		161
+	],
+	"camera_position": [
+		-140,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

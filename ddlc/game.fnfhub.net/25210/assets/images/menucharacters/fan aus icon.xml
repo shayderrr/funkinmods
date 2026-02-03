@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fan aus icon.png"><SubTexture name="fan aus icon idle0000" x="0" y="0" width="396" height="211" frameX="-39" frameY="-175" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

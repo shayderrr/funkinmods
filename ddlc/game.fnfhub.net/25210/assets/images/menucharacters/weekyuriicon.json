@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "week yuri icon",
+	"position": [
+		109,
+		122
+	],
+	"flipX": false,
+	"scale": 1.55,
+	"confirm_anim": "M Dad Idle"
+}

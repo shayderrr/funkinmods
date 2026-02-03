@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-70
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "bars idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-70
+			],
+			"anim": "appear",
+			"fps": 4,
+			"name": "bars appear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-70
+			],
+			"anim": "disappear",
+			"fps": 4,
+			"name": "bars disappear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bars",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.7
+}

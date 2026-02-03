@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-520,
+				-100
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "sayoriTable idle"
+		},
+		{
+			"offsets": [
+				-520,
+				-100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sayoriTable left"
+		},
+		{
+			"offsets": [
+				-520,
+				-100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sayoriTable down"
+		},
+		{
+			"offsets": [
+				-520,
+				-100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sayoriTable right"
+		},
+		{
+			"offsets": [
+				-520,
+				-100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sayoriTable up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayoriTable",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayoriTest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-360,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FWyuriScared.png"><SubTexture name="FWyuriScared idle0000" x="663" y="0" width="343" height="449" frameX="-69" frameY="-51" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared idle0001" x="1351" y="0" width="343" height="446" frameX="-69" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared idle0002" x="0" y="911" width="351" height="440" frameX="-66" frameY="-60" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared down0000" x="707" y="911" width="362" height="426" frameX="-66" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared down0001" x="351" y="911" width="356" height="435" frameX="-67" frameY="-65" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared up0000" x="0" y="0" width="330" height="462" frameX="-69" frameY="-38" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared up0001" x="330" y="0" width="333" height="457" frameX="-69" frameY="-43" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared right0000" x="1006" y="0" width="345" height="448" frameX="-91" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared right0001" x="1006" y="448" width="342" height="448" frameX="-87" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared left0000" x="0" y="462" width="341" height="449" frameX="-60" frameY="-51" frameWidth="500" frameHeight="500" />
+<SubTexture name="FWyuriScared left0001" x="341" y="462" width="341" height="449" frameX="-65" frameY="-51" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

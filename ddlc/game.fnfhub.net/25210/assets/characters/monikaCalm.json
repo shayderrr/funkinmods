@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "monikaCalm idle"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "monikaCalm left"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "monikaCalm down"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "monikaCalm up"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "monikaCalm right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monikaCalm",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monikaTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

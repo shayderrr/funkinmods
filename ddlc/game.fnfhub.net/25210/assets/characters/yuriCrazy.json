@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-560,
+				-70
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "yuriCrazy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-560,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "yuriCrazy left"
+		},
+		{
+			"offsets": [
+				-560,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "yuriCrazy down"
+		},
+		{
+			"offsets": [
+				-560,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "yuriCrazy up"
+		},
+		{
+			"offsets": [
+				-560,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "yuriCrazy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuriCrazy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuriCrazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		0,
+		141
+	],
+	"camera_position": [
+		-400,
+		-630
+	],
+	"sing_duration": 6.1,
+	"scale": 3.6
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="natsukiTest.png"><SubTexture name="natsukiTest idle0000" x="959" y="392" width="304" height="389" frameX="-85" frameY="-85" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest idle0001" x="322" y="0" width="310" height="403" frameX="-79" frameY="-86" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest idle0002" x="632" y="0" width="327" height="403" frameX="-69" frameY="-81" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest idle0003" x="0" y="408" width="310" height="403" frameX="-79" frameY="-86" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest left0000" x="621" y="408" width="327" height="388" frameX="-69" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest left0001" x="959" y="0" width="340" height="392" frameX="-55" frameY="-93" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest right0000" x="310" y="811" width="321" height="384" frameX="-59" frameY="-99" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest right0001" x="0" y="811" width="310" height="386" frameX="-74" frameY="-99" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest up0000" x="0" y="0" width="322" height="408" frameX="-87" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest up0001" x="310" y="408" width="311" height="397" frameX="-87" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest down0000" x="923" y="811" width="315" height="364" frameX="-92" frameY="-116" frameWidth="500" frameHeight="500" />
+<SubTexture name="natsukiTest down0001" x="631" y="811" width="292" height="369" frameX="-94" frameY="-110" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

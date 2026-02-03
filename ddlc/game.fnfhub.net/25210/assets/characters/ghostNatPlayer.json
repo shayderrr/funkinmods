@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "ghostNat idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "ghostNat left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "ghostNat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "ghostNat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ghostNat right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghostNat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "natsukiTest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

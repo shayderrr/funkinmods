@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuriCrazy.png"><SubTexture name="yuriCrazy idle0000" x="0" y="526" width="202" height="243" frameX="-102" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy idle0001" x="632" y="0" width="199" height="252" frameX="-102" frameY="-88" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy idle0002" x="0" y="268" width="202" height="258" frameX="-99" frameY="-85" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy idle0003" x="632" y="0" width="199" height="252" frameX="-102" frameY="-88" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy down0000" x="831" y="189" width="217" height="187" frameX="-98" frameY="-161" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy down0001" x="831" y="0" width="223" height="189" frameX="-96" frameY="-160" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy left0000" x="465" y="526" width="262" height="233" frameX="-67" frameY="-110" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy left0001" x="202" y="526" width="263" height="237" frameX="-68" frameY="-109" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy up0000" x="205" y="0" width="224" height="261" frameX="-94" frameY="-79" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy up0001" x="202" y="268" width="233" height="258" frameX="-89" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy right0000" x="429" y="0" width="203" height="259" frameX="-149" frameY="-80" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriCrazy right0001" x="0" y="0" width="205" height="268" frameX="-152" frameY="-77" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

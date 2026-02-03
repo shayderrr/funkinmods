@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "monikaTest idle"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "monikaTest left"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monikaTest down"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monikaTest up"
+		},
+		{
+			"offsets": [
+				-210,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "monikaTest right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monikaTest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monikaTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

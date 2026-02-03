@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Sayo-Sandwich",
+			"sayoriTest",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Moniball",
+			"monikaTest",
+			[
+				120,
+				75,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"fanausicon",
+		""
+	],
+	"storyName": "the week ever",
+	"weekName": "Joke",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": false
+}

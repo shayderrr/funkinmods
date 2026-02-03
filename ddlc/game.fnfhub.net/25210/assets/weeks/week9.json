@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Poem-Panic",
+			"bfSketch",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"weekbficon",
+		""
+	],
+	"storyName": "bf",
+	"weekName": "Week BF",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week8",
+	"startUnlocked": false
+}

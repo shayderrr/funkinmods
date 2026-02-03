@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "akinom idle"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "akinom left"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "akinom down"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "akinom up"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "akinom right"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "appear",
+			"loop": false,
+			"name": "akinom appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/akinom",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monikaTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		450,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

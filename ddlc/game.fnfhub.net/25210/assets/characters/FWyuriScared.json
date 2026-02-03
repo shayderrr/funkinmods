@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "FWyuriScared idle"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FWyuriScared left"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FWyuriScared down"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FWyuriScared up"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FWyuriScared right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FWyuriScared",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuriCrazy",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		0,
+		255
+	],
+	"camera_position": [
+		-240,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

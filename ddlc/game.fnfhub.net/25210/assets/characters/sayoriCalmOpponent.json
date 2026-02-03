@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				15
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "sayoriCalm idle"
+		},
+		{
+			"offsets": [
+				-160,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sayoriCalm down"
+		},
+		{
+			"offsets": [
+				-160,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sayoriCalm up"
+		},
+		{
+			"offsets": [
+				-160,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sayoriCalm right"
+		},
+		{
+			"offsets": [
+				-160,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sayoriCalm left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayoriCalm",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayoriTest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

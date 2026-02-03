@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuriTest.png"><SubTexture name="yuriTest idle0000" x="0" y="889" width="268" height="420" frameX="-81" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest idle0001" x="826" y="0" width="268" height="441" frameX="-88" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest idle0002" x="0" y="449" width="268" height="440" frameX="-91" frameY="-42" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest up0000" x="545" y="0" width="281" height="442" frameX="-90" frameY="-43" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest up0001" x="266" y="0" width="279" height="444" frameX="-90" frameY="-43" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest down0000" x="534" y="449" width="278" height="424" frameX="-76" frameY="-59" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest down0001" x="268" y="449" width="266" height="430" frameX="-91" frameY="-55" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest left0000" x="812" y="449" width="241" height="422" frameX="-86" frameY="-55" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest left0001" x="1094" y="0" width="239" height="422" frameX="-86" frameY="-46" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest right0000" x="268" y="889" width="246" height="416" frameX="-87" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest idle0003" x="0" y="0" width="266" height="449" frameX="-93" frameY="-38" frameWidth="500" frameHeight="500" />
+<SubTexture name="yuriTest right0001" x="514" y="889" width="243" height="398" frameX="-91" frameY="-62" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

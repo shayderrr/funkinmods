@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "fan aus icon",
+	"position": [
+		80,
+		85
+	],
+	"flipX": false,
+	"scale": 1.6,
+	"confirm_anim": "idle"
+}

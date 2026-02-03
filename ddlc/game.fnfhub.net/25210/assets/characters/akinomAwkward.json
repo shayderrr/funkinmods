@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				0
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "akinomAwkward idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "akinomAwkward left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "akinomAwkward down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "akinomAwkward up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "akinomAwkward right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/akinomAwkward",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monikaTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		450,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

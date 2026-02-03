@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sayoriTableAwkward.png"><SubTexture name="sayoriTableAwkward idle0000" x="1167" y="0" width="389" height="450" frameX="-48" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward idle0001" x="778" y="481" width="389" height="453" frameX="-48" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward idle0002" x="778" y="0" width="389" height="460" frameX="-48" frameY="-40" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward idle0003" x="778" y="481" width="389" height="453" frameX="-48" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward down0000" x="1167" y="450" width="389" height="433" frameX="-48" frameY="-67" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward down0001" x="0" y="940" width="389" height="433" frameX="-48" frameY="-67" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward up0000" x="389" y="0" width="389" height="479" frameX="-48" frameY="-21" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward up0001" x="0" y="0" width="389" height="481" frameX="-48" frameY="-19" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward left0000" x="0" y="481" width="389" height="459" frameX="-48" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward left0001" x="389" y="481" width="389" height="459" frameX="-48" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward right0000" x="389" y="940" width="389" height="423" frameX="-48" frameY="-77" frameWidth="500" frameHeight="500" />
+<SubTexture name="sayoriTableAwkward right0001" x="778" y="940" width="389" height="422" frameX="-48" frameY="-78" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

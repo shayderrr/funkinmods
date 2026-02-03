@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="akinom.png"><SubTexture name="akinom idle0000" x="253" y="386" width="302" height="380" frameX="-88" frameY="-42" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom idle0001" x="555" y="386" width="288" height="370" frameX="-86" frameY="-45" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom idle0002" x="876" y="0" width="291" height="364" frameX="-83" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom down0000" x="1433" y="0" width="267" height="307" frameX="-64" frameY="-107" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom down0001" x="1167" y="0" width="266" height="311" frameX="-63" frameY="-108" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom up0000" x="0" y="386" width="253" height="381" frameX="-94" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom up0001" x="0" y="0" width="251" height="386" frameX="-93" frameY="-44" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom right0000" x="582" y="767" width="293" height="355" frameX="-105" frameY="-72" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom right0001" x="875" y="767" width="291" height="350" frameX="-107" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom left0000" x="564" y="0" width="312" height="383" frameX="-44" frameY="-43" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom left0001" x="251" y="0" width="313" height="386" frameX="-41" frameY="-40" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom appear0000" x="876" y="364" width="291" height="364" frameX="-83" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom appear0001" x="0" y="767" width="291" height="364" frameX="-83" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="akinom appear0002" x="291" y="767" width="291" height="364" frameX="-83" frameY="-48" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

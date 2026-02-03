@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="picoFront.png"><SubTexture name="picoFront idle0000" x="749" y="381" width="249" height="319" frameX="-121" frameY="-100" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront idle0001" x="753" y="703" width="246" height="317" frameX="-123" frameY="-99" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront idle0002" x="1076" y="610" width="249" height="300" frameX="-122" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront idle0003" x="1076" y="0" width="249" height="308" frameX="-122" frameY="-108" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront down0000" x="0" y="1022" width="252" height="295" frameX="-123" frameY="-121" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront down0001" x="1076" y="308" width="249" height="302" frameX="-123" frameY="-114" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront up0000" x="0" y="381" width="251" height="322" frameX="-123" frameY="-94" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront up0001" x="0" y="703" width="252" height="319" frameX="-123" frameY="-97" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront left0000" x="251" y="381" width="249" height="320" frameX="-113" frameY="-99" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront left0001" x="500" y="381" width="249" height="320" frameX="-116" frameY="-99" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront right0000" x="252" y="703" width="252" height="319" frameX="-124" frameY="-100" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront right0001" x="504" y="703" width="249" height="319" frameX="-123" frameY="-100" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront gun0000" x="0" y="0" width="350" height="381" frameX="-75" frameY="-24" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront gun0001" x="350" y="0" width="360" height="342" frameX="-75" frameY="-31" frameWidth="700" frameHeight="700" />
+<SubTexture name="picoFront gun0002" x="710" y="0" width="366" height="335" frameX="-74" frameY="-38" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

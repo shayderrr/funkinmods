@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "sketchNat idle"
+		},
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sketchNat left"
+		},
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sketchNat down"
+		},
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sketchNat up"
+		},
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sketchNat right"
+		},
+		{
+			"offsets": [
+				-430,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "hey",
+			"loop": false,
+			"name": "sketchNat laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sketchNat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sketchNat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		255
+	],
+	"camera_position": [
+		90,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

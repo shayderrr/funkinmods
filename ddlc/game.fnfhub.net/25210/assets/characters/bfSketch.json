@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				235,
+				245
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "bfSketch idle"
+		},
+		{
+			"offsets": [
+				235,
+				245
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfSketch left"
+		},
+		{
+			"offsets": [
+				235,
+				245
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfSketch down"
+		},
+		{
+			"offsets": [
+				235,
+				245
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfSketch up"
+		},
+		{
+			"offsets": [
+				235,
+				245
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfSketch right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfSketch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bfSketch",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

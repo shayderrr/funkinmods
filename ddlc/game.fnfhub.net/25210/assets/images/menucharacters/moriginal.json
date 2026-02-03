@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M original idle",
+	"image": "M original",
+	"position": [
+		110,
+		190
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M original idle"
+}

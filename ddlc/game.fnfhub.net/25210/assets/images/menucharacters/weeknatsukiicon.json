@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "idle",
+	"idle_anim": "idle",
+	"position": [
+		80,
+		90
+	],
+	"scale": 1.45,
+	"image": "week natsuki icon",
+	"flipX": false
+}

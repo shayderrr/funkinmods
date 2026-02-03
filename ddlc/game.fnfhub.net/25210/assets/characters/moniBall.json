@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "moniBall idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "moniBall left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "moniBall down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "moniBall up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "moniBall right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moniBall",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monikaTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		15,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

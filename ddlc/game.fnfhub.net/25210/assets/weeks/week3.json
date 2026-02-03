@@ -1,0 +1,41 @@
+{
+	"storyName": "Week 2",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tension",
+			"monikaTest",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"Artillery",
+			"yuriTest",
+			[
+				20,
+				0,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"mweek2",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 2"
+}

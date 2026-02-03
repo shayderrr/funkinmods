@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "natsukiTest idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "natsukiTest left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "natsukiTest down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "natsukiTest up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "natsukiTest right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsukiTest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "natsukiTest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

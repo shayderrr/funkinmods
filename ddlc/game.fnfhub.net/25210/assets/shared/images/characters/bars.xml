@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bars.png"><SubTexture name="bars appear0000" x="0" y="0" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars appear0001" x="700" y="0" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars appear0002" x="0" y="500" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars idle0000" x="700" y="500" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars disappear0000" x="0" y="500" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars disappear0001" x="700" y="0" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="bars disappear0002" x="0" y="0" width="700" height="500" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

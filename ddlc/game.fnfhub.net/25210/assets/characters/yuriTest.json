@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "yuriTest idle"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yuriTest left"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yuriTest down"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yuriTest up"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yuriTest right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuriTest",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-yuriTest",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

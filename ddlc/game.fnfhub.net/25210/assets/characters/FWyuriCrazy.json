@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "idle",
+			"loop": false,
+			"name": "FWyuriCrazy idle"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FWyuriCrazy left"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FWyuriCrazy down"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FWyuriCrazy up"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FWyuriCrazy right"
+		},
+		{
+			"offsets": [
+				-370,
+				-30
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "hey",
+			"loop": false,
+			"name": "FWyuriCrazy epic note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FWyuriCrazy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuriCrazy",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		0,
+		255
+	],
+	"camera_position": [
+		-240,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

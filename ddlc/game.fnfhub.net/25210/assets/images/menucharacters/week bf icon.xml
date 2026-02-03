@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="week bf icon.png"><SubTexture name="week bf icon idle0000" x="0" y="0" width="489" height="368" frameX="-6" frameY="-76" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				-180
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "idle",
+			"indices": [],
+			"name": "picoFrontGun idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "picoFrontGun left"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "picoFrontGun down"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "picoFrontGun up"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "picoFrontGun right"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "disarm",
+			"indices": [],
+			"name": "picoFrontGun disarm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picoFrontGun",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "picoSketch",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-870,
+		-590
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}

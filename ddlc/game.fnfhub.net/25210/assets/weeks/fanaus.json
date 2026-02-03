@@ -1,0 +1,41 @@
+{
+	"storyName": "au credits are in the .txt file",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"fanausicon",
+		""
+	],
+	"songs": [
+		[
+			"Art-Block",
+			"mikeu",
+			[
+				255,
+				160,
+				253
+			]
+		],
+		[
+			"Funky-Haze",
+			"sayoriTest",
+			[
+				255,
+				253,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fan Aus",
+	"hiddenUntilUnlocked": false
+}

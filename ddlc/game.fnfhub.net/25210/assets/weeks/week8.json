@@ -1,0 +1,32 @@
+{
+	"storyName": "Natsuki's Sketchbook",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Schooled",
+			"picoSketch",
+			[
+				183,
+				216,
+				63
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"weeknatsukiicon",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Natsuki's Sketchbook"
+}
