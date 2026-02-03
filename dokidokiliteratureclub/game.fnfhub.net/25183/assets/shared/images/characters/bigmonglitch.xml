@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monika_Glitch.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MonGdown0000" x="0" y="0" width="537" height="539"/>
+	<SubTexture name="MonGdown0001" x="537" y="0" width="537" height="539"/>
+	<SubTexture name="MonGdown0002" x="1074" y="0" width="537" height="539"/>
+	<SubTexture name="MonGidle0000" x="1611" y="0" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0001" x="2228" y="0" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0002" x="2845" y="0" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0003" x="3462" y="0" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0004" x="0" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0005" x="617" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0006" x="1234" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0007" x="1851" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0008" x="2468" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0009" x="3085" y="551.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0010" x="0" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0011" x="617" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0012" x="1234" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0013" x="1851" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0014" x="2468" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0015" x="3085" y="1103" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0016" x="0" y="1654.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0017" x="617" y="1654.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0018" x="1234" y="1654.5" width="617" height="551.5"/>
+	<SubTexture name="MonGidle0019" x="1851" y="1654.5" width="617" height="551.5"/>
+	<SubTexture name="MonGleft0000" x="2468" y="1654.5" width="508.5" height="555"/>
+	<SubTexture name="MonGleft0001" x="2976.5" y="1654.5" width="508.5" height="555"/>
+	<SubTexture name="MonGleft0002" x="3485" y="1654.5" width="508.5" height="555"/>
+	<SubTexture name="MonGright0000" x="0" y="2209.5" width="539" height="525"/>
+	<SubTexture name="MonGright0001" x="539" y="2209.5" width="539" height="525"/>
+	<SubTexture name="MonGright0002" x="1078" y="2209.5" width="539" height="525"/>
+	<SubTexture name="MonGup0000" x="1617" y="2209.5" width="577.5" height="546"/>
+	<SubTexture name="MonGup0001" x="2194.5" y="2209.5" width="577.5" height="546"/>
+	<SubTexture name="MonGup0002" x="2772" y="2209.5" width="577.5" height="546"/>
+</TextureAtlas>
