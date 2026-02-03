@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		30,
+		-60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "roza blush",
+			"idle_offsets": [
+				12,
+				3
+			],
+			"idle_name": "roza blush",
+			"anim": "blush",
+			"loop_offsets": [
+				12,
+				3
+			]
+		},
+		{
+			"loop_name": "roza normal",
+			"idle_offsets": [
+				20,
+				22
+			],
+			"idle_name": "roza normal",
+			"anim": "normal",
+			"loop_offsets": [
+				20,
+				22
+			]
+		}
+	],
+	"image": "roza_portraits"
+}

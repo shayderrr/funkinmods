@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anatole_duet.png">
+<SubTexture name="anatole aww0000" x="0" y="0" width="373" height="464" frameX="0" frameY="0" frameWidth="373" frameHeight="464" />
+<SubTexture name="anatole laugh0000" x="373" y="0" width="373" height="464" frameX="0" frameY="0" frameWidth="373" frameHeight="464" />
+<SubTexture name="anatole smile0000" x="0" y="464" width="370" height="417" frameX="0" frameY="0" frameWidth="370" frameHeight="417" />
+<SubTexture name="anatole wink0000" x="370" y="464" width="384" height="429" frameX="0" frameY="0" frameWidth="384" frameHeight="429" />
+</TextureAtlas>

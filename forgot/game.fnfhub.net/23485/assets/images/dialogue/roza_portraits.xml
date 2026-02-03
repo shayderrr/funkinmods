@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="roza_portraits.png"><SubTexture name="roza blush0000" x="0" y="0" width="571" height="495" frameX="0" frameY="0" frameWidth="571" frameHeight="495" />
+<SubTexture name="roza normal0000" x="0" y="495" width="588" height="538" frameX="0" frameY="0" frameWidth="588" frameHeight="538" />
+</TextureAtlas>

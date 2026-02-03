@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole-duet",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "So are you ready for your lessons? It’s OK do not be shy all you gotta do is follow my lead."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "roza",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... sigh why do you make me do this ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole-duet",
+			"boxState": "normal",
+			"expression": "aww",
+			"text": "Because you love me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "roza",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "You sure?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole-duet",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "hahahaha"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole-duet",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Ahh... Let us begin."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "roza",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "roza",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Stubborn bastard."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole-duet",
+			"boxState": "normal",
+			"expression": "wink",
+			"text": "*wink~*"
+		}
+	]
+}

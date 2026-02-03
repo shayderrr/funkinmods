@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		-70
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "gf normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf normal0",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gf cheers",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gf cheers0",
+			"anim": "cheers",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "gf_portraits"
+}

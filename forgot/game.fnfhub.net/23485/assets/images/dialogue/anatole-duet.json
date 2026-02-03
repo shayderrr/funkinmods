@@ -1,0 +1,63 @@
+{
+	"position": [
+		130,
+		-20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.55,
+	"image": "anatole_duet",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "wink",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "anatole wink",
+			"idle_name": "anatole wink"
+		},
+		{
+			"loop_offsets": [
+				-9,
+				34
+			],
+			"anim": "aww",
+			"idle_offsets": [
+				-9,
+				34
+			],
+			"loop_name": "anatole aww",
+			"idle_name": "anatole aww"
+		},
+		{
+			"loop_offsets": [
+				-9,
+				34
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				-9,
+				34
+			],
+			"loop_name": "anatole laugh",
+			"idle_name": "anatole laugh"
+		},
+		{
+			"loop_offsets": [
+				-11,
+				-12
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				-11,
+				-12
+			],
+			"loop_name": "anatole smile",
+			"idle_name": "anatole smile"
+		}
+	]
+}

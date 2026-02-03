@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anatole_portraits.png"><SubTexture name="tole angry0000" x="0" y="0" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole bruh0000" x="505" y="0" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole excited0000" x="0" y="692" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole happy0000" x="505" y="692" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole normal0000" x="0" y="1384" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole pissed0000" x="505" y="1384" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+<SubTexture name="tole smile0000" x="0" y="2076" width="505" height="692" frameX="0" frameY="0" frameWidth="505" frameHeight="692" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "anatole idle"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "anatole up"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "anatole down"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "anatole left"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "anatole right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anatole_tutorial_sheet",
+	"position": [
+		-390,
+		-700
+	],
+	"healthicon": "anatole",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		137,
+		167
+	],
+	"camera_position": [
+		340,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

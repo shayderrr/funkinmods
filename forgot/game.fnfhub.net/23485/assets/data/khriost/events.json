@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "alley",
+		"player1": "bf",
+		"player2": "anatole",
+		"player3": null,
+		"events": [
+			[
+				83612.9032258066,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"0"
+					]
+				]
+			]
+		
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "khriost"
+	}
+}

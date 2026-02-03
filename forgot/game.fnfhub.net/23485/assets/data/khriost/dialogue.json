@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "smile",
+			"text": "(*hahaha* They would be desperate enough to do something like this)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "smile",
+			"text": "Hey you two, you know it's not safe to be around here. Don't you children know there's war here in mother Russia?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "normal",
+			"text": "Boop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "(They look... foreign... Could they be spies? Hmm nyet but let's not keep our guard down.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry sir, we aren't too sure how we got here in the first place",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "happy",
+			"text": "Ah it's okay little red, but what's wrong with little blue here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh? Me? You can call me Anatole, I am a soldier so do not worry children, I will *protect* you, you can trust me *winks*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "cheers",
+			"text": "Oh thank you sir! That's really kind of you, I'm glad we don't...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "pissed",
+			"text": "What's this? You just met me and you want to challenge me?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "happy",
+			"text": "Little blue did you happen to land on head?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"expression": "talk",
+			"text": "He means in a sing off",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend"
+		},
+		{
+			"expression": "talk",
+			"text": "As much as I want to get out of here and get back home, I always love hearing this man sing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend"
+		},
+		{
+			"expression": "angry",
+			"text": "(These two are mad, a sing off? Might as well just play along and see what their true intentions are...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "girlfriend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So what do you say old man?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Alright alright, let's see what you got little blue, I must warn you. I'm known for my music skill..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "*shows gun* this is one of my instruments."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Beep boop pico bee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "What is a pico?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "anatole",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Eh, come on little blue, let’s do this cyka."
+		}
+	]
+}

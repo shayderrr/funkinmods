@@ -1,0 +1,11 @@
+{
+	"idle_anim": "week animation idle",
+	"image": "anemones_fall_week_animation",
+	"position": [
+		1450,
+		1790
+	],
+	"flipX": false,
+	"scale": 0.1,
+	"confirm_anim": "week animation idle"
+}

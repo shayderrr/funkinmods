@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_portraits.png"><SubTexture name="bf happy0000" x="0" y="0" width="630" height="510" frameX="0" frameY="0" frameWidth="630" frameHeight="510" />
+<SubTexture name="bf normal0000" x="0" y="510" width="630" height="510" frameX="0" frameY="0" frameWidth="630" frameHeight="510" />
+<SubTexture name="bf scared0000" x="0" y="1020" width="630" height="510" frameX="0" frameY="0" frameWidth="630" frameHeight="510" />
+</TextureAtlas>

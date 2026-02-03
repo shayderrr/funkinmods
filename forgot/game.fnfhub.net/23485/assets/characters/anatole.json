@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "anatole up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "anatole down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "anatole left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "anatole right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-89,
+				80
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "anatole idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anatole_sheet",
+	"position": [
+		-750,
+		-850
+	],
+	"healthicon": "anatole",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		137,
+		167
+	],
+	"camera_position": [
+		640,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

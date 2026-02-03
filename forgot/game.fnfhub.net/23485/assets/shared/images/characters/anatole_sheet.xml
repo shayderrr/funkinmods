@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anatole_sheet.png"><SubTexture name="anatole down0000" x="0" y="0" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole down0001" x="2019" y="0" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole down0002" x="4038" y="0" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0000" x="6057" y="0" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0001" x="0" y="2019" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0002" x="2019" y="2019" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0003" x="4038" y="2019" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0004" x="6057" y="2019" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole idle0005" x="0" y="4038" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole left0000" x="2019" y="4038" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole left0001" x="4023" y="4038" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole left0002" x="6027" y="4038" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole right0000" x="0" y="6057" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole right0001" x="2019" y="6057" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole right0002" x="4038" y="6057" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole up0000" x="6057" y="6057" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole up0001" x="0" y="8076" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+<SubTexture name="anatole up0002" x="2019" y="8076" width="2019" height="2019" frameX="0" frameY="0" frameWidth="2019" frameHeight="2019" />
+</TextureAtlas>

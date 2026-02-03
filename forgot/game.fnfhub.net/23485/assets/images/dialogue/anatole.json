@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		-200
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "tole normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole excited",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole bruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tole smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tole smile",
+			"anim": "smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "anatole_portraits"
+}

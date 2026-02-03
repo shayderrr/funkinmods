@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anatole_tutorial_sheet.png"><SubTexture name="anatole down0000" x="0" y="0" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole down0001" x="2004" y="0" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole down0002" x="4008" y="0" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0000" x="6012" y="0" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0001" x="6012" y="0" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0002" x="0" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0003" x="0" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0004" x="2004" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0005" x="2004" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0006" x="4008" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0007" x="4008" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0008" x="6012" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0009" x="6012" y="1733" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0010" x="0" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0011" x="0" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0012" x="2004" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0013" x="2004" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0014" x="4008" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0015" x="4008" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0016" x="6012" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0017" x="6012" y="3466" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0018" x="0" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0019" x="0" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0020" x="2004" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0021" x="2004" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0022" x="4008" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole idle0023" x="4008" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole left0000" x="6012" y="5199" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole left0001" x="0" y="6932" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole left0002" x="2004" y="6932" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole right0000" x="4008" y="6932" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole right0001" x="6012" y="6932" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole right0002" x="0" y="8665" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole up0000" x="2004" y="8665" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole up0001" x="4008" y="8665" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+<SubTexture name="anatole up0002" x="6012" y="8665" width="2004" height="1733" frameX="0" frameY="0" frameWidth="2004" frameHeight="1733" />
+</TextureAtlas>

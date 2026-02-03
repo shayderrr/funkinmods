@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="anemones_fall_week_animation.png">
+<SubTexture name="week animation idle0000" x="0" y="0" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0001" x="0" y="0" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0002" x="3076" y="0" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0003" x="3076" y="0" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0004" x="0" y="4100" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0005" x="0" y="4100" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0006" x="3076" y="4100" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0007" x="3076" y="4100" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0008" x="0" y="8200" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0009" x="0" y="8200" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0010" x="3076" y="8200" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+<SubTexture name="week animation idle0011" x="0" y="0" width="3076" height="4100" frameX="0" frameY="0" frameWidth="3076" frameHeight="4100" />
+</TextureAtlas>

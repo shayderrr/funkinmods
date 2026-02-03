@@ -1,0 +1,32 @@
+{
+	"storyName": "duet",
+	"difficulties": "Easy, Normal, Hard, Fucking-Hell",
+	"hideFreeplay": false,
+	"weekBackground": "duet",
+	"weekBefore": "week0",
+	"freeplayColor": [
+		137,
+		249,
+		250
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Duet",
+			"roza",
+			[
+				137,
+				249,
+				250
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "weekduet"
+}
