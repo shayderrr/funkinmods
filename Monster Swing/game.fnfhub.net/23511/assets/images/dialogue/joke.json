@@ -1,0 +1,24 @@
+{
+	"position": [
+		110,
+		10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "joke-hey",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"idle_name": "joke-hey",
+			"loop_name": "joke-hey"
+		}
+	]
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BIG_SHOT.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf BIG SHOT0000" x="0" y="0" width="1567" height="839" pivotX="0" pivotY="0"/>
+	<SubTexture name="bf BIG SHOT0001" x="0" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0002" x="1567" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0003" x="3134" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0004" x="4701" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0005" x="4701" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0006" x="6268" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0007" x="6268" y="0" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0008" x="0" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0009" x="0" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0010" x="1567" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0011" x="1567" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0012" x="3134" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0013" x="3134" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0014" x="4701" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0015" x="6268" y="839" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0016" x="0" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0017" x="1567" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0018" x="1567" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0019" x="3134" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0020" x="3134" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0021" x="4701" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0022" x="4701" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0023" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0024" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0025" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0026" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0027" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0028" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0029" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0030" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0031" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0032" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0033" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0034" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0035" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0036" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0037" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0038" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0039" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0040" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0041" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0042" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0043" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0044" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0045" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0046" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0047" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0048" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0049" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0050" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0051" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0052" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0053" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0054" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0055" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0056" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf BIG SHOT0057" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0000" x="0" y="2517" width="1421" height="839" pivotX="0" pivotY="0"/>
+	<SubTexture name="bf dead loop0001" x="0" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0002" x="1421" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0003" x="1421" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0004" x="2842" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0005" x="2842" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0006" x="4263" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0007" x="4263" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0008" x="5684" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0009" x="5684" y="2517" width="1421" height="839"/>
+	<SubTexture name="bf dead loop0010" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0011" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0012" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0013" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0014" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0015" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0016" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0017" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0018" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0019" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0020" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0021" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0022" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0023" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0024" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0025" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0026" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0027" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf dead loop0028" x="6268" y="1678" width="1567" height="839"/>
+	<SubTexture name="bf retry0000" x="0" y="3356" width="1421" height="839" pivotX="0" pivotY="0"/>
+	<SubTexture name="bf retry0001" x="0" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0002" x="1421" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0003" x="1421" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0004" x="2842" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0005" x="2842" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0006" x="4263" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0007" x="4263" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0008" x="5684" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0009" x="5684" y="3356" width="1421" height="839"/>
+	<SubTexture name="bf retry0010" x="0" y="4195" width="1421" height="839"/>
+	<SubTexture name="bf retry0011" x="0" y="4195" width="1421" height="839"/>
+	<SubTexture name="bf retry0012" x="0" y="4195" width="1421" height="839"/>
+	<SubTexture name="bf retry0013" x="0" y="4195" width="1421" height="839"/>
+</TextureAtlas>

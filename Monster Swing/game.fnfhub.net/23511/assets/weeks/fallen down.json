@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"bullet swing",
+			"tofu",
+			[
+				86,
+				33,
+				35
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bar",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "swing around",
+	"weekName": "fallen demon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

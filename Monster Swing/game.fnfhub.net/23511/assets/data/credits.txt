@@ -1,0 +1,9 @@
+Monster Swing! TEAM
+Tofu::tofu::Director/Main Artist/Animator::https://twitter.com/Tofuisstilltofu::F6E4AD
+TaeYai ::taeyai::Co-Director/Coder::https://www.youtube.com/channel/UC_OwYbXr0rkfLzkFl66GBTQ::3A8CD1
+Joke::joke::Supporter/Promo Artist::::a246e0
+P.GOD::conner::Musician/Charter::https://www.youtube.com/channel/UCVXu4gcph8RqyKwO1BLYwvw::f4e3ff
+SovaNova::squid::Torris Chromatic::https://twitter.com/SovaNova0::f2edf5
+
+SPECIAL THANKS
+peremoya2000::::ShaderToy::https://www.shadertoy.com/view/7tdGWs::fffdcf

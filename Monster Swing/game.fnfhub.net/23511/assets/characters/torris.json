@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				69
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Torris left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Torris down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				130
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Torris up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				77
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Torris right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Torris idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": false,
+			"anim": "gun",
+			"fps": 24,
+			"name": "Torris gun0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": false,
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Torris shoot0",
+			"indices": []
+		}
+		,
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": true,
+			"anim": "shoot stay",
+			"fps": 24,
+			"name": "Torris shoot0",
+			"indices": [28]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Torris",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tofu",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		47,
+		18
+	],
+	"camera_position": [
+		0,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

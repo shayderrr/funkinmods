@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Criminal_Bitch.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="criminal get big shot0000" x="0" y="0" width="1323" height="1233" pivotX="0" pivotY="0"/>
+	<SubTexture name="criminal get big shot0001" x="0" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0002" x="1323" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0003" x="1323" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0004" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0005" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0006" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0007" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0008" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0009" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0010" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0011" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0012" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0013" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0014" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0015" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0016" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0017" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0018" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0019" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0020" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0021" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0022" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0023" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0024" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0025" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0026" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0027" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0028" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal get big shot0029" x="2646" y="0" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0000" x="0" y="1233" width="1323" height="1233" pivotX="0" pivotY="0"/>
+	<SubTexture name="criminal jumpscare0001" x="0" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0002" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0003" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0004" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0005" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0006" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0007" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0008" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0009" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0010" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0011" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0012" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0013" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0014" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0015" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0016" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0017" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0018" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0019" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0020" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0021" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0022" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0023" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0024" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0025" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0026" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0027" x="1323" y="1233" width="1323" height="1233"/>
+	<SubTexture name="criminal jumpscare0028" x="1323" y="1233" width="1323" height="1233"/>
+</TextureAtlas>

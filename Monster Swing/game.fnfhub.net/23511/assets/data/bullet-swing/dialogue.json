@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "WOAH WHAT THE?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "torris"
+		},
+		{
+			"expression": "eh",
+			"text": "beep...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.14,
+			"portrait": "bf-dialouge"
+		},
+		{
+			"expression": "huh",
+			"text": "Who are you …little guy?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "torris"
+		},
+		{
+			"expression": "me",
+			"text": "beep bop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "bf-dialouge"
+		},
+		{
+			"expression": "oh",
+			"text": "Boyfriend huh? You said you fell down from nowhere so now you are fallen to Marvin’s bar?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "torris"
+		},
+		{
+			"expression": "ok",
+			"text": " *nod nod* ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.105,
+			"portrait": "bf-dialouge"
+		},
+		{
+			"expression": "huh",
+			"text": " and …you have to sing to escape from here right?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "torris"
+		},
+		{
+			"expression": "ok",
+			"text": " :D ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.215,
+			"portrait": "gf"
+		},
+		{
+			"expression": "hey",
+			"text": " Damn~ my little Torry is gonna sing for the first time after haven’t sung for a long time~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "joke"
+		},
+		{
+			"expression": "hey",
+			"text": " LET’S GO DEER!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "joke"
+		},
+		{
+			"expression": "pain",
+			"text": " UGH shut up Joey",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "torris"
+		},
+		{
+			"expression": "hi",
+			"text": " yea yea let’s make it quick we don’t have much time before those bullshit come inside my bar ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sam"
+		},
+		{
+			"expression": "go",
+			"text": " WELL RISE AND SHINE!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0249999999999996,
+			"portrait": "torris"
+		},
+		{
+			"expression": "hey",
+			"text": " BEEP! ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0299999999999996,
+			"portrait": "bf-dialouge"
+		}
+	]
+}

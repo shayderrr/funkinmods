@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Torris.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Torris down0000" x="0" y="0" width="600" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris down0001" x="0" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0002" x="600" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0003" x="600" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0004" x="1200" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0005" x="1200" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0006" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0007" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0008" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0009" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0010" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0011" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0012" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris down0013" x="1800" y="0" width="600" height="859"/>
+	<SubTexture name="Torris gun0000" x="2400" y="0" width="1023" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris gun0001" x="2400" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0002" x="3423" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0003" x="3423" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0004" x="4446" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0005" x="4446" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0006" x="5469" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0007" x="5469" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0008" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0009" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0010" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0011" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0012" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0013" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0014" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0015" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0016" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0017" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0018" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0019" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0020" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0021" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0022" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0023" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0024" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0025" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0026" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0027" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris gun0028" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris idle0000" x="7515" y="0" width="461" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris idle0001" x="7515" y="0" width="461" height="859"/>
+	<SubTexture name="Torris idle0002" x="0" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0003" x="0" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0004" x="461" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0005" x="461" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0006" x="922" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0007" x="922" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0008" x="1383" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0009" x="1383" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0010" x="1844" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0011" x="1844" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0012" x="1844" y="859" width="461" height="859"/>
+	<SubTexture name="Torris idle0013" x="1844" y="859" width="461" height="859"/>
+	<SubTexture name="Torris left0000" x="2305" y="859" width="727" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris left0001" x="2305" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0002" x="3032" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0003" x="3032" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0004" x="3759" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0005" x="3759" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0006" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0007" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0008" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0009" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0010" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0011" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0012" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris left0013" x="4486" y="859" width="727" height="859"/>
+	<SubTexture name="Torris right0000" x="5213" y="859" width="640" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris right0001" x="5213" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0002" x="5853" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0003" x="5853" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0004" x="6493" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0005" x="6493" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0006" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0007" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0008" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0009" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0010" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0011" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0012" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris right0013" x="7133" y="859" width="640" height="859"/>
+	<SubTexture name="Torris shoot0000" x="0" y="1718" width="1023" height="859" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris shoot0001" x="0" y="1718" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0002" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0003" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0004" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0005" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0006" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0007" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0008" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0009" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0010" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0011" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0012" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0013" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0014" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0015" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0016" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0017" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0018" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0019" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0020" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0021" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0022" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0023" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0024" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0025" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0026" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0027" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris shoot0028" x="6492" y="0" width="1023" height="859"/>
+	<SubTexture name="Torris up0000" x="1023" y="1718" width="590" height="921" pivotX="0" pivotY="0"/>
+	<SubTexture name="Torris up0001" x="1023" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0002" x="1613" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0003" x="1613" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0004" x="2203" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0005" x="2203" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0006" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0007" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0008" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0009" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0010" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0011" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0012" x="2793" y="1718" width="590" height="921"/>
+	<SubTexture name="Torris up0013" x="2793" y="1718" width="590" height="921"/>
+</TextureAtlas>

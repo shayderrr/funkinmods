@@ -1,0 +1,51 @@
+{
+	"song": {
+		"events": [
+			[
+				147824.427480916,
+				[
+					[
+						"Play Animation",
+						"gun",
+						"Dad"
+					]
+				]
+			],
+			[
+				148625.954198473,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					]
+				]
+			],
+			[
+				148854.961832061,
+				[
+					[
+						"Play Animation",
+						"shoot stay",
+						"Dad"
+					]
+				]
+			],
+			[
+				149541.984732824,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

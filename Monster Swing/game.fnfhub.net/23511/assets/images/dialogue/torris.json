@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "eh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "tofu-eh",
+			"idle_name": "tofu-eh"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "huh",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "tofu-huh",
+			"idle_name": "tofu-huh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pain",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "tofu-pain",
+			"idle_name": "tofu-pain"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "tofu-shock",
+			"idle_name": "tofu-shock"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "oh",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "tofu-oh",
+			"loop_name": "tofu-oh"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "go",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "tofu-go",
+			"loop_name": "tofu-go"
+		}
+	],
+	"image": "torris"
+}
