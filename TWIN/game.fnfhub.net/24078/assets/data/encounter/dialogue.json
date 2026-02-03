@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ayo wats poppin "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestgaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nothin much doc, im chillin"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "real gamer moment right there ngl"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestgaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "on god "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ight now ima need you to drop some fire"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestgaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i gotchu homie this one slaps fr fr"
+		}
+	]
+}

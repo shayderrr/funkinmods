@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				527
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "john idle"
+		},
+		{
+			"offsets": [
+				18,
+				583
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "john right"
+		},
+		{
+			"offsets": [
+				401,
+				514
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "john left"
+		},
+		{
+			"offsets": [
+				258,
+				470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "john down"
+		},
+		{
+			"offsets": [
+				231,
+				636
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "john up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/johndoe",
+	"position": [
+		110,
+		710
+	],
+	"healthicon": "johndoe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		166
+	],
+	"camera_position": [
+		80,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

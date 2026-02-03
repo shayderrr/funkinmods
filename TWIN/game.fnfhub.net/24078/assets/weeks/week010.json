@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Rust", "rust", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"guest",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "rust",
+
+	"storyName": "rust",
+	"weekBefore": "week666",
+	"weekName": "Week Rust",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

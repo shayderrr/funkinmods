@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guest666_dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GUEST6660000" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660001" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660002" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660003" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660004" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660005" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660006" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660007" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660008" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660009" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660010" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST6660011" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST666IDLE0000" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST666IDLE0001" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST666IDLE0002" x="0" y="0" width="444" height="417"/>
+	<SubTexture name="GUEST666IDLE0003" x="0" y="0" width="444" height="417"/>
+</TextureAtlas>

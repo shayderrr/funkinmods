@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GUESTGAMING_DIALOGUE.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GUESTGAMING 0000" x="0" y="0" width="363" height="417"/>
+	<SubTexture name="GUESTGAMING 0001" x="0" y="0" width="363" height="417"/>
+	<SubTexture name="GUESTGAMING LOOP0000" x="363" y="0" width="369" height="394" frameX="0" frameY="-26" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0001" x="363" y="0" width="369" height="394" frameX="0" frameY="-26" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0002" x="0" y="417" width="363" height="417" frameX="-3" frameY="-3" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0003" x="0" y="417" width="363" height="417" frameX="-3" frameY="-3" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0004" x="363" y="417" width="356" height="420" frameX="-7" frameY="0" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0005" x="363" y="417" width="356" height="420" frameX="-7" frameY="0" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0006" x="0" y="417" width="363" height="417" frameX="-3" frameY="-3" frameWidth="369" frameHeight="420"/>
+	<SubTexture name="GUESTGAMING LOOP0007" x="0" y="417" width="363" height="417" frameX="-3" frameY="-3" frameWidth="369" frameHeight="420"/>
+</TextureAtlas>

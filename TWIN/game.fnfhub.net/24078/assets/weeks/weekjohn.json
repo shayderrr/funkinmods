@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Bloxxed", "johndoe", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"guest",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "john",
+
+	"storyName": "john doe",
+	"weekBefore": "week010",
+	"weekName": "Week John",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}
