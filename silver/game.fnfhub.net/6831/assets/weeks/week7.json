@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["monochrome", "gold", [255, 120, 191]],
+           ["dead", "gold", [255, 120, 191]],
+           ["slasher", "gold", [255, 120, 191]]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "???",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

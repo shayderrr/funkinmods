@@ -1,0 +1,19 @@
+{
+	"songs": [
+		["mays-monochrome", "gold", [255, 120, 191]]	
+      ],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "nothing",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
