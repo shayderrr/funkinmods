@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glich.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glic0000" x="0" y="0" width="1929" height="1069"/>
+	<SubTexture name="glic0001" x="1929" y="0" width="1929" height="1069"/>
+	<SubTexture name="glic0002" x="3858" y="0" width="1929" height="1069"/>
+	<SubTexture name="glic0003" x="5787" y="0" width="1929" height="1069"/>
+	<SubTexture name="glic0004" x="0" y="1069" width="1929" height="1069"/>
+	<SubTexture name="glic0005" x="1929" y="1069" width="1929" height="1069"/>
+	<SubTexture name="glic0006" x="3858" y="1069" width="1929" height="1069"/>
+	<SubTexture name="glic0007" x="5787" y="1069" width="1929" height="1069"/>
+	<SubTexture name="glic0008" x="0" y="2138" width="1929" height="1069"/>
+	<SubTexture name="glic0009" x="1929" y="2138" width="1929" height="1069"/>
+	<SubTexture name="glic0010" x="3858" y="2138" width="1929" height="1069"/>
+</TextureAtlas>

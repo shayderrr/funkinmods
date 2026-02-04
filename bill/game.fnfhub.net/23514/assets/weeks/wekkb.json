@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Dystopia",
+			"bill",
+			[
+				146,
+				133,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bill",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "..................................................................",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-211
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "speaker",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-211
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "speaker",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-79,
+				-210
+			],
+			"indices": [],
+			"fps": 52,
+			"anim": "bop",
+			"loop": false,
+			"name": "speaker"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spiker",
+	"position": [
+		200,
+		210
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-40,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

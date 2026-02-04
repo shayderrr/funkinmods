@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minibill.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="billani0000" x="0" y="0" width="1399" height="499"/>
+	<SubTexture name="billani0001" x="1399" y="0" width="1399" height="499"/>
+	<SubTexture name="billani0002" x="2798" y="0" width="1399" height="499"/>
+	<SubTexture name="billani0003" x="4197" y="0" width="1399" height="499"/>
+	<SubTexture name="billani0004" x="5596" y="0" width="1399" height="499"/>
+	<SubTexture name="billani0005" x="0" y="499" width="1399" height="499"/>
+	<SubTexture name="billani0006" x="1399" y="499" width="1399" height="499"/>
+	<SubTexture name="billani0007" x="2798" y="499" width="1399" height="499"/>
+	<SubTexture name="billani0008" x="4197" y="499" width="1399" height="499"/>
+	<SubTexture name="billani0009" x="5596" y="499" width="1399" height="499"/>
+	<SubTexture name="billani0010" x="0" y="998" width="1399" height="499"/>
+	<SubTexture name="billani0011" x="1399" y="998" width="1399" height="499"/>
+	<SubTexture name="billani0012" x="2798" y="998" width="1399" height="499"/>
+	<SubTexture name="billani0013" x="4197" y="998" width="1399" height="499"/>
+	<SubTexture name="billani0014" x="5596" y="998" width="1399" height="499"/>
+	<SubTexture name="billani0015" x="0" y="1497" width="1399" height="499"/>
+	<SubTexture name="billani0016" x="1399" y="1497" width="1399" height="499"/>
+	<SubTexture name="billani0017" x="2798" y="1497" width="1399" height="499"/>
+	<SubTexture name="billani0018" x="4197" y="1497" width="1399" height="499"/>
+	<SubTexture name="billani0019" x="5596" y="1497" width="1399" height="499"/>
+	<SubTexture name="billani0020" x="0" y="1996" width="1399" height="499"/>
+	<SubTexture name="billani0021" x="1399" y="1996" width="1399" height="499"/>
+	<SubTexture name="billani0022" x="2798" y="1996" width="1399" height="499"/>
+	<SubTexture name="billani0023" x="4197" y="1996" width="1399" height="499"/>
+	<SubTexture name="billani0024" x="5596" y="1996" width="1399" height="499"/>
+	<SubTexture name="billani0025" x="0" y="2495" width="1399" height="499"/>
+	<SubTexture name="billani0026" x="1399" y="2495" width="1399" height="499"/>
+	<SubTexture name="billani0027" x="2798" y="2495" width="1399" height="499"/>
+	<SubTexture name="billani0028" x="4197" y="2495" width="1399" height="499"/>
+	<SubTexture name="billani0029" x="5596" y="2495" width="1399" height="499"/>
+	<SubTexture name="billani0030" x="0" y="2994" width="1399" height="499"/>
+	<SubTexture name="billani0031" x="1399" y="2994" width="1399" height="499"/>
+	<SubTexture name="billani0032" x="2798" y="2994" width="1399" height="499"/>
+	<SubTexture name="billani0033" x="4197" y="2994" width="1399" height="499"/>
+	<SubTexture name="billani0034" x="5596" y="2994" width="1399" height="499"/>
+	<SubTexture name="billani0035" x="0" y="3493" width="1399" height="499"/>
+	<SubTexture name="billani0036" x="1399" y="3493" width="1399" height="499"/>
+	<SubTexture name="billani0037" x="2798" y="3493" width="1399" height="499"/>
+	<SubTexture name="billani0038" x="4197" y="3493" width="1399" height="499"/>
+	<SubTexture name="billani0039" x="5596" y="3493" width="1399" height="499"/>
+	<SubTexture name="billani0040" x="0" y="3992" width="1399" height="499"/>
+	<SubTexture name="billani0041" x="1399" y="3992" width="1399" height="499"/>
+	<SubTexture name="billani0042" x="2798" y="3992" width="1399" height="499"/>
+	<SubTexture name="billani0043" x="4197" y="3992" width="1399" height="499"/>
+	<SubTexture name="billani0044" x="5596" y="3992" width="1399" height="499"/>
+	<SubTexture name="billani0045" x="0" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0046" x="1399" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0047" x="2798" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0048" x="4197" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0049" x="5596" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0050" x="0" y="4990" width="1399" height="499"/>
+	<SubTexture name="billani0051" x="1399" y="4990" width="1399" height="499"/>
+	<SubTexture name="billani0052" x="5596" y="4491" width="1399" height="499"/>
+	<SubTexture name="billani0053" x="0" y="4990" width="1399" height="499"/>
+</TextureAtlas>

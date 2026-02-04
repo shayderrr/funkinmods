@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-27,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				44
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/billc",
+	"position": [
+		-300,
+		-60
+	],
+	"healthicon": "bill",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		181,
+		21
+	],
+	"camera_position": [
+		180,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
