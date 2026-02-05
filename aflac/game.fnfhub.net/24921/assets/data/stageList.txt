@@ -1,6 +1,0 @@
-stage
-dave
-overworldA
-overworldB
-overworldC
-end
