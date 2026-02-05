@@ -42689,12 +42689,9 @@ $jscomp.polyfill("Array.prototype.entries", function (Q) {
         }
         this._loaded = this._urlChecked = this._destroyed = false;
         this._percent = 0;
-        this.siteLockBodyText = "It appears the website you are using is hosting an unauthorized copy of this game. Storage or redistribution of this content, without the express permission of the developer or other copyright holder, is prohibited under copyright law.\n\nThank you for your interest in this game! Please support the developer by visiting the following website to play the game:";
-        this.siteLockTitleText = "Sorry.";
-        this.minDisplayTime = this.siteLockURLIndex = 0;
+        this.minDisplayTime = 0;
         Of.call(this);
         this.minDisplayTime = a;
-        this.allowedURLs = b ?? [];
         this._startTime = new Date().getTime();
       }
       g["flixel.system.FlxBasePreloader"] = Pf;
@@ -42708,7 +42705,6 @@ $jscomp.polyfill("Array.prototype.entries", function (Q) {
           na.get_current().stage.align = 6;
           this.create();
           this.addEventListener("enterFrame", q(this, this.onEnterFrame));
-          this.checkSiteLock();
         },
         onUpdate: function (a, b) {
           this._percent = b != 0 ? a / b : 0;
@@ -42742,121 +42738,6 @@ $jscomp.polyfill("Array.prototype.entries", function (Q) {
             b(c);
           }]));
           return c;
-        },
-        checkSiteLock: function () {
-          if (!this._urlChecked) {
-            if (this.isHostUrlAllowed()) {
-              this._urlChecked = true;
-            } else {
-              this.removeChildren();
-              this.removeEventListener("enterFrame", q(this, this.onEnterFrame));
-              this.createSiteLockFailureScreen();
-            }
-          }
-        },
-        createSiteLockFailureScreen: function () {
-          this.addChild(this.createSiteLockFailureBackground(16777215, 15066597));
-          this.addChild(this.createSiteLockFailureIcon(15066597, 0.9));
-          this.addChild(this.createSiteLockFailureText(30));
-        },
-        createSiteLockFailureBackground: function (a, b) {
-          var c = new vf();
-          var d = c.get_graphics();
-          d.clear();
-          var e = new Ea();
-          e.createGradientBox(1, 1, 0, -0.5, -0.5);
-          var f = Math.max(this.stage.stageWidth, this.stage.stageHeight);
-          e.scale(f, f);
-          e.translate(this.stage.stageWidth * 0.5, this.stage.stageHeight * 0.5);
-          d.beginGradientFill(1, [a, b], [1, 1], [0, 255], e);
-          d.drawRect(0, 0, this.stage.stageWidth, this.stage.stageHeight);
-          d.endFill();
-          return c;
-        },
-        createSiteLockFailureIcon: function (a, b) {
-          var c = new vf();
-          var d = c.get_graphics();
-          d.clear();
-          d.beginFill(a);
-          a = [1, 6, 2, 2, 2, 6, 6, 2, 2, 2, 6, 1, 6, 2, 6, 2, 6, 2, 6, 1, 6, 6, 2, 2, 2, 6, 6];
-          var e = rb.toIntVector(null);
-          for (var f = 0, h = a.length; f < h;) {
-            var m = f++;
-            e.set(m, a[m]);
-          }
-          var n = e;
-          a = [120, 0, 164, 0, 200, 35, 200, 79, 200, 130, 160, 130, 160, 79, 160, 57, 142, 40, 120, 40, 97, 40, 79, 57, 79, 79, 80, 130, 40, 130, 40, 79, 40, 35, 75, 0, 120, 0, 220, 140, 231, 140, 240, 148, 240, 160, 240, 300, 240, 311, 231, 320, 220, 320, 20, 320, 8, 320, 0, 311, 0, 300, 0, 160, 0, 148, 8, 140, 20, 140, 120, 190, 108, 190, 100, 198, 100, 210, 100, 217, 104, 223, 110, 227, 110, 270, 130, 270, 130, 227, 135, 223, 140, 217, 140, 210, 140, 198, 131, 190, 120, 190];
-          e = rb.toFloatVector(null);
-          f = 0;
-          for (h = a.length; f < h;) {
-            m = f++;
-            e.set(m, a[m]);
-          }
-          d.drawPath(n, e, 1);
-          d.endFill();
-          d = new Ea();
-          d.translate(c.get_width() * -0.5, c.get_height() * -0.5);
-          b *= Math.min(this.stage.stageWidth / c.get_width(), this.stage.stageHeight / c.get_height());
-          d.scale(b, b);
-          d.translate(this.stage.stageWidth * 0.5, this.stage.stageHeight * 0.5);
-          c.get_transform().set_matrix(d);
-          return c;
-        },
-        createSiteLockFailureText: function (a) {
-          var b = new fa();
-          var c = new ma(0, 0, this.stage.stageWidth, this.stage.stageHeight);
-          c.inflate(-a, -a);
-          a = new ec();
-          var d = new zc("_sans", 33, 3355443, true);
-          d.align = 3;
-          a.set_defaultTextFormat(d);
-          a.set_selectable(false);
-          a.set_width(c.width);
-          a.set_text(this.siteLockTitleText);
-          d = new ec();
-          var e = new zc("_sans", 22, 3355443);
-          e.align = 2;
-          d.set_defaultTextFormat(e);
-          d.set_multiline(true);
-          d.set_wordWrap(true);
-          d.set_selectable(false);
-          d.set_width(c.width);
-          d.set_text(this.siteLockBodyText);
-          e = new ec();
-          var f = new zc("_sans", 22, 7247820, true, false, true);
-          f.align = 0;
-          f.url = this.allowedURLs[this.siteLockURLIndex];
-          e.set_defaultTextFormat(f);
-          e.set_selectable(true);
-          e.set_width(c.width);
-          e.set_text(this.allowedURLs[this.siteLockURLIndex]);
-          this.adjustSiteLockTextFields(a, d, e);
-          a.set_height(a.get_textHeight() + 4);
-          d.set_height(d.get_textHeight() + 4);
-          e.set_height(e.get_textHeight() + 4);
-          a.set_x(d.set_x(e.set_x(c.get_left())));
-          a.set_y(c.get_top());
-          d.set_y(a.get_y() + a.get_height() * 2);
-          e.set_y(d.get_y() + d.get_height() + e.get_height());
-          b.addChild(a);
-          b.addChild(d);
-          b.addChild(e);
-          return b;
-        },
-        adjustSiteLockTextFields: function (a, b, c) {},
-        isHostUrlAllowed: function () {
-          if (this.allowedURLs.length == 0) {
-            return true;
-          }
-          var a = yb.getDomain(E.location.href);
-          for (var b = 0, c = this.allowedURLs; b < c.length;) {
-            var d = c[b];
-            ++b;
-            if (yb.getDomain(d) == a) {
-              return true;
-            }
-          }
-          return false;
         },
         __class__: Pf
       });
