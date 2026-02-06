@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+				-21,
+				-6
+			],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "left"
+		},
+        {
+            "offsets": [
+				240,
+				-142
+			],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "down"
+		},
+        {
+            "offsets": [
+				11,
+				-26
+			],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "up"
+		},
+        {
+            "offsets": [
+				45,
+				-103
+			],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "right"
+		},
+        {
+            "offsets": [
+				0,
+				0
+			],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "idle"
+		}
+	],
+    "no_antialiasing": false,
+    "image": "characters/shadow_dean",
+    "position": [
+		-110,
+		0
+	],
+    "healthicon": "shadowdean",
+    "flip_x": false,
+    "healthbar_colors": [
+		88,
+		85,
+		87
+	],
+    "camera_position": [
+		0,
+		-50
+	],
+    "sing_duration": 6.1,
+    "scale": 1
+}

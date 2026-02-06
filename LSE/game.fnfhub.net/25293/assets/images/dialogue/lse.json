@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "DEAN TALK",
+			"idle_name": "DEAN TALK"
+		},
+		{
+			"loop_name": "DEAN SIDE EYE",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DEAN SIDE EYE",
+			"anim": "side",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "LSE_Dialogue"
+}

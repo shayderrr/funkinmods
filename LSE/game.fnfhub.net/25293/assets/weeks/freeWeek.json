@@ -1,0 +1,40 @@
+{
+	"storyName": "Demo Week",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		255,
+		50,
+		50
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Daw Wars",
+			"lse",
+			[
+				160,
+				0,
+				0
+			]
+		],
+		[
+			"Means of Destruction",
+			"face",
+			[
+				170,
+				56,
+				99
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Demo Week"
+}

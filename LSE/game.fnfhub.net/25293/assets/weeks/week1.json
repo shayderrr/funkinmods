@@ -1,0 +1,49 @@
+{
+	"storyName": "Longest Week Ever",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		255,
+		50,
+		50
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Amplified",
+			"lse",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Gain Stage",
+			"lse",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Limiter",
+			"lse",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Demo Week"
+}
