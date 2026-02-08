@@ -1,0 +1,1 @@
+const originalOpen=window.open;window.open=function(...n){return n[0]?.includes("DnuJ4ExP")?(window.open("https://discord.gg/GE4nWNp6z2","_blank"),null):originalOpen.apply(this,n)};
